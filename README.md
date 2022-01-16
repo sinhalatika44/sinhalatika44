@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sinhalatika44
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Latika
+- 👀 I’m interested in Software, Tech products, travelling
+- 🌱 I’m currently learning JavaScript, NodeJS
+- 💞️ I’m looking to collaborate on cool projects
+- 📫 How to reach me: @sinhalatika44
 
 <!---
 sinhalatika44/sinhalatika44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
